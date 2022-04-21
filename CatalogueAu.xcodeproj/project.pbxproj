@@ -7,15 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		580057C726862C8900AA9392 /* SpinnerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 580057C626862C8900AA9392 /* SpinnerViewController.swift */; };
+		581DAD39267B382100AF4353 /* ScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581DAD38267B382100AF4353 /* ScrollViewController.swift */; };
+		581DAD3D267C9FCF00AF4353 /* CatalogViewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581DAD3C267C9FCF00AF4353 /* CatalogViewManager.swift */; };
+		581DAD40267CA33400AF4353 /* CatalogViewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581DAD3F267CA33400AF4353 /* CatalogViewData.swift */; };
+		581E12DE26335AA400B27464 /* CatalogueHomeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581E12DD26335AA400B27464 /* CatalogueHomeModel.swift */; };
+		5820AD252626276400A39720 /* CatalogueTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5820AD232626276300A39720 /* CatalogueTableViewCell.swift */; };
+		5820AD262626276400A39720 /* CatalogueTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5820AD242626276400A39720 /* CatalogueTableViewCell.xib */; };
+		5820AD2A2626FCDF00A39720 /* CatalogueCoverManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5820AD292626FCDF00A39720 /* CatalogueCoverManager.swift */; };
+		5820AD3426299CDD00A39720 /* CatalogueHomeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5820AD3326299CDD00A39720 /* CatalogueHomeData.swift */; };
+		58249F53265AFA290006F50D /* CategoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58249F52265AFA290006F50D /* CategoriesViewController.swift */; };
+		58249F56265BEA860006F50D /* CategoriesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58249F55265BEA860006F50D /* CategoriesList.swift */; };
+		58416AEA267F484D00669C88 /* CatalogViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58416AE9267F484D00669C88 /* CatalogViewModel.swift */; };
+		587389C72694767D0050FB4D /* ScrollVC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587389C62694767D0050FB4D /* ScrollVC2.swift */; };
+		587389CB2695C4E10050FB4D /* Last4CatalogTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587389CA2695C4E00050FB4D /* Last4CatalogTableView.swift */; };
+		587389CE2695C8C80050FB4D /* Last4CatalogManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587389CD2695C8C80050FB4D /* Last4CatalogManager.swift */; };
+		587389D12695CB1A0050FB4D /* Last4CatalogData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587389D02695CB1A0050FB4D /* Last4CatalogData.swift */; };
+		587389D42696EE320050FB4D /* CategoriesNetworker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587389D32696EE320050FB4D /* CategoriesNetworker.swift */; };
 		58A195772620C90600A5639C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A195762620C90600A5639C /* AppDelegate.swift */; };
 		58A195792620C90600A5639C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A195782620C90600A5639C /* SceneDelegate.swift */; };
 		58A1957B2620C90600A5639C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A1957A2620C90600A5639C /* ViewController.swift */; };
 		58A1957E2620C90600A5639C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58A1957C2620C90600A5639C /* Main.storyboard */; };
 		58A195802620C90800A5639C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58A1957F2620C90800A5639C /* Assets.xcassets */; };
 		58A195832620C90800A5639C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58A195812620C90800A5639C /* LaunchScreen.storyboard */; };
+		58AE7E922690C3BE00CC97E3 /* FakeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58AE7E912690C3BE00CC97E3 /* FakeViewController.swift */; };
+		58AFFCB6268C90CA00D870F3 /* BrandID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58AFFCB5268C90CA00D870F3 /* BrandID.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		580057C626862C8900AA9392 /* SpinnerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinnerViewController.swift; sourceTree = "<group>"; };
+		581DAD38267B382100AF4353 /* ScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollViewController.swift; sourceTree = "<group>"; };
+		581DAD3C267C9FCF00AF4353 /* CatalogViewManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogViewManager.swift; sourceTree = "<group>"; };
+		581DAD3F267CA33400AF4353 /* CatalogViewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogViewData.swift; sourceTree = "<group>"; };
+		581E12DD26335AA400B27464 /* CatalogueHomeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogueHomeModel.swift; sourceTree = "<group>"; };
+		5820AD232626276300A39720 /* CatalogueTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogueTableViewCell.swift; sourceTree = "<group>"; };
+		5820AD242626276400A39720 /* CatalogueTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CatalogueTableViewCell.xib; sourceTree = "<group>"; };
+		5820AD292626FCDF00A39720 /* CatalogueCoverManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogueCoverManager.swift; sourceTree = "<group>"; };
+		5820AD3326299CDD00A39720 /* CatalogueHomeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogueHomeData.swift; sourceTree = "<group>"; };
+		58249F52265AFA290006F50D /* CategoriesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesViewController.swift; sourceTree = "<group>"; };
+		58249F55265BEA860006F50D /* CategoriesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesList.swift; sourceTree = "<group>"; };
+		58416AE9267F484D00669C88 /* CatalogViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogViewModel.swift; sourceTree = "<group>"; };
+		587389C62694767D0050FB4D /* ScrollVC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollVC2.swift; sourceTree = "<group>"; };
+		587389CA2695C4E00050FB4D /* Last4CatalogTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Last4CatalogTableView.swift; sourceTree = "<group>"; };
+		587389CD2695C8C80050FB4D /* Last4CatalogManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Last4CatalogManager.swift; sourceTree = "<group>"; };
+		587389D02695CB1A0050FB4D /* Last4CatalogData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Last4CatalogData.swift; sourceTree = "<group>"; };
+		587389D32696EE320050FB4D /* CategoriesNetworker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesNetworker.swift; sourceTree = "<group>"; };
 		58A195732620C90600A5639C /* CatalogueAu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatalogueAu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58A195762620C90600A5639C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		58A195782620C90600A5639C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +60,8 @@
 		58A1957F2620C90800A5639C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58A195822620C90800A5639C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58A195842620C90800A5639C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58AE7E912690C3BE00CC97E3 /* FakeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeViewController.swift; sourceTree = "<group>"; };
+		58AFFCB5268C90CA00D870F3 /* BrandID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandID.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +75,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		58011EAB2651C0240061DB24 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5820AD232626276300A39720 /* CatalogueTableViewCell.swift */,
+				5820AD242626276400A39720 /* CatalogueTableViewCell.xib */,
+				58A1957A2620C90600A5639C /* ViewController.swift */,
+				581DAD38267B382100AF4353 /* ScrollViewController.swift */,
+				587389C62694767D0050FB4D /* ScrollVC2.swift */,
+				58249F52265AFA290006F50D /* CategoriesViewController.swift */,
+				58249F55265BEA860006F50D /* CategoriesList.swift */,
+				580057C626862C8900AA9392 /* SpinnerViewController.swift */,
+				58AE7E912690C3BE00CC97E3 /* FakeViewController.swift */,
+				587389CA2695C4E00050FB4D /* Last4CatalogTableView.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		58011EAC2651C0340061DB24 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				58A1957C2620C90600A5639C /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5820AD282626FCC800A39720 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5820AD292626FCDF00A39720 /* CatalogueCoverManager.swift */,
+				581DAD3C267C9FCF00AF4353 /* CatalogViewManager.swift */,
+				58416AE9267F484D00669C88 /* CatalogViewModel.swift */,
+				581DAD3F267CA33400AF4353 /* CatalogViewData.swift */,
+				581E12DD26335AA400B27464 /* CatalogueHomeModel.swift */,
+				5820AD3326299CDD00A39720 /* CatalogueHomeData.swift */,
+				58AFFCB5268C90CA00D870F3 /* BrandID.swift */,
+				587389CD2695C8C80050FB4D /* Last4CatalogManager.swift */,
+				587389D02695CB1A0050FB4D /* Last4CatalogData.swift */,
+				587389D32696EE320050FB4D /* CategoriesNetworker.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		58A1956A2620C90600A5639C = {
 			isa = PBXGroup;
 			children = (
@@ -56,10 +136,11 @@
 		58A195752620C90600A5639C /* CatalogueAu */ = {
 			isa = PBXGroup;
 			children = (
-				58A195762620C90600A5639C /* AppDelegate.swift */,
+				5820AD282626FCC800A39720 /* Model */,
 				58A195782620C90600A5639C /* SceneDelegate.swift */,
-				58A1957A2620C90600A5639C /* ViewController.swift */,
-				58A1957C2620C90600A5639C /* Main.storyboard */,
+				58A195762620C90600A5639C /* AppDelegate.swift */,
+				58011EAB2651C0240061DB24 /* Controller */,
+				58011EAC2651C0340061DB24 /* View */,
 				58A1957F2620C90800A5639C /* Assets.xcassets */,
 				58A195812620C90800A5639C /* LaunchScreen.storyboard */,
 				58A195842620C90800A5639C /* Info.plist */,
@@ -127,6 +208,7 @@
 				58A195832620C90800A5639C /* LaunchScreen.storyboard in Resources */,
 				58A195802620C90800A5639C /* Assets.xcassets in Resources */,
 				58A1957E2620C90600A5639C /* Main.storyboard in Resources */,
+				5820AD262626276400A39720 /* CatalogueTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,9 +219,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				587389CB2695C4E10050FB4D /* Last4CatalogTableView.swift in Sources */,
+				5820AD3426299CDD00A39720 /* CatalogueHomeData.swift in Sources */,
 				58A1957B2620C90600A5639C /* ViewController.swift in Sources */,
+				58416AEA267F484D00669C88 /* CatalogViewModel.swift in Sources */,
+				581E12DE26335AA400B27464 /* CatalogueHomeModel.swift in Sources */,
 				58A195772620C90600A5639C /* AppDelegate.swift in Sources */,
+				581DAD40267CA33400AF4353 /* CatalogViewData.swift in Sources */,
+				581DAD3D267C9FCF00AF4353 /* CatalogViewManager.swift in Sources */,
+				5820AD2A2626FCDF00A39720 /* CatalogueCoverManager.swift in Sources */,
+				58249F56265BEA860006F50D /* CategoriesList.swift in Sources */,
+				587389D12695CB1A0050FB4D /* Last4CatalogData.swift in Sources */,
+				58AE7E922690C3BE00CC97E3 /* FakeViewController.swift in Sources */,
 				58A195792620C90600A5639C /* SceneDelegate.swift in Sources */,
+				58AFFCB6268C90CA00D870F3 /* BrandID.swift in Sources */,
+				587389CE2695C8C80050FB4D /* Last4CatalogManager.swift in Sources */,
+				587389D42696EE320050FB4D /* CategoriesNetworker.swift in Sources */,
+				587389C72694767D0050FB4D /* ScrollVC2.swift in Sources */,
+				581DAD39267B382100AF4353 /* ScrollViewController.swift in Sources */,
+				58249F53265AFA290006F50D /* CategoriesViewController.swift in Sources */,
+				580057C726862C8900AA9392 /* SpinnerViewController.swift in Sources */,
+				5820AD252626276400A39720 /* CatalogueTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,7 +316,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -271,7 +371,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -287,6 +387,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 36LWVJ2THH;
 				INFOPLIST_FILE = CatalogueAu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -305,6 +406,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 36LWVJ2THH;
 				INFOPLIST_FILE = CatalogueAu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
